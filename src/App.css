@@ -98,6 +98,10 @@
   background: #FFF;
 }
 
+.cell_choosen {
+  background: rgba(88, 88, 88, 0.3);
+}
+
 .cell__selected::after {
   display: block;
   color: #444;
